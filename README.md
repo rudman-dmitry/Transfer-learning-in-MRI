@@ -6,4 +6,5 @@ Pre-trained models trained on small database (253 images) and demonstrate signif
 There are 2 folders:
 - Classification: base model is InceptionResNetV2 pretrained on ImageNet
 - Segmentation: base model is Mask R-CNN pretrained on COCO
+
 Every folder has requirements.txt file 
